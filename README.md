@@ -1,7 +1,7 @@
 # netflixa-mern-video-app
 React movie mern application with tailwind css
 
-URL: https://nextflixa.onrender.com/movies
+URL: https://nextflixa.onrender.com
 
 Netflixa is a mern web application which was designed for a project based application
 
